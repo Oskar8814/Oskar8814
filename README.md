@@ -1,6 +1,6 @@
 # Hi, I'm Oscar García
 
-## A passionate developer from Spain
+## A developer from Spain
 
 ### Connect with me
 
